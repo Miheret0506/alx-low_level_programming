@@ -20,4 +20,5 @@ str_one++;
 str_two++;
 }
 
-return
+return (*str_one - *str_two);
+}
