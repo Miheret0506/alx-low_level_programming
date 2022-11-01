@@ -24,12 +24,3 @@ void print_chessboard(char (*a)[8])
 	}
 
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
